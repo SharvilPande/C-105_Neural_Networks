@@ -1,0 +1,17 @@
+body{
+   background-image: linear-gradient(to bottom right, purple,red,pink ); 
+}
+#camera, #result {
+    border: darkgoldenrod 4px solid;
+    height: 350px;
+    width: 350px;
+}
+
+.all_objects{
+    color: darkred;
+}
+
+#heading{
+    width: 50%;
+    font-size: 20px;
+}
